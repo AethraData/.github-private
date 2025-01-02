@@ -1,6 +1,6 @@
-# ![Aethra Logo](/aethra-logo.png)
-
-Welcome to **Aethra**, your go-to platform for optimizing AI and human agent interactions through powerful conversation analytics.
+<div style="text-align: center;">
+  <img src="/aethra-logo.png" alt="Aethra Logo" width="200">
+</div>
 
 ---
 
@@ -30,9 +30,3 @@ We empower businesses with APIs, libraries, and dashboards to unlock the potenti
 
 © 2025 Aethra. All rights reserved.
 
-
-### Key Points:
-- Replace `https://your-cdn-link.com/aethra-logo.png` with the actual URL of the Aethra logo.
-- Links to documentation, website, and email remain concise yet functional.
-
-This format keeps it short while providing essential information and branding. Let me know if you need further tweaks! 🚀
